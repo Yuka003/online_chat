@@ -1,0 +1,14 @@
+certifi==2021.10.8
+charset-normalizer==2.0.12
+confuse==0.5.0
+idna==3.3
+plyer==1.4.3
+pywebio==1.6.0
+PyYAML==6.0
+requests==2.27.1
+run-js==0.0.4
+toasts==0.1.2
+tornado==6.1
+ua-parser==0.10.0
+urllib3==1.26.9
+user-agents==2.2.0
